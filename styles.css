@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url('tsuyoshi-kozu-BcjTORSr88Q-unsplash.jpg');  /* Replace 'background.jpg' with your image file */
+    background-size: cover;  /* Ensure the image covers the entire page */
+    background-position: center;  /* Center the image */
+    background-attachment: fixed;  /* Keep the background fixed when scrolling */
+    padding-top: 20px;
+    color: rgb(255, 72, 0);  /* Optional: Set text color to white for better contrast */
+}
+
+#dataContainer {
+    margin-top: 20px;
+    background-color: rgba(126, 253, 232, 0.788);  /* Add a semi-transparent background to improve text readability */
+    padding: 20px;
+    border-radius: 8px;
+}
